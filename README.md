@@ -1,6 +1,6 @@
 # Workshop sobre bibliotecas de componentes de UI para React 2024
 
-## Lista de bibliotecas
+## Lista de apresentações (_forks_)
 - [Chakra UI](https://github.com/Th14g0o/2024-react-ui-libs), by [Maria Cândida](https://github.com/mmariacandida), [Milton Shyon](https://github.com/Shyon246), [Rita de Cássia](https://github.com/Ritinhha), e [Thiago Gonsalves](https://github.com/Th14g0o/)
 - [Tailwind CSS](https://github.com/artur-vinicius/2024-react-ui-libs), by [Artur Vinícius](https://github.com/artur-vinicius) e [João Ricardo](https://github.com/joao-rick)
 - [Material UI](https://github.com/balbii/2024-react-ui-libs), by [Jordson Galvão](https://github.com/JordsonZ) e [Renan Balbino](https://github.com/balbii)
