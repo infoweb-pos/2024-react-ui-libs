@@ -2,6 +2,7 @@
 
 ## Lista de apresentações (_forks_)
 - [Ant Design](https://github.com/GabsFerrarii/2024-react-ui-libs/), by [Gabriel Ferreira](https://github.com/GabsFerrarii/), [Iara Monyke](https://github.com/iaramonyke), [Iraikare Rodrigues](https://github.com/iraikare)	e [Lucas de Lima](https://github.com/monzadrifteiro)
+- [Ant design](https://github.com/Igor-jair/2024-react-ui-libs), by [Igor Jair](https://github.com/Igor-jair) e [Pedro Vitor](https://github.com/PedroVitorCarFerSilva)
 - [Chakra UI](https://github.com/Th14g0o/2024-react-ui-libs), by [Maria Cândida](https://github.com/mmariacandida), [Milton Shyon](https://github.com/Shyon246), [Rita de Cássia](https://github.com/Ritinhha), e [Thiago Gonsalves](https://github.com/Th14g0o/)
 - [Tailwind CSS](https://github.com/artur-vinicius/2024-react-ui-libs), by [Artur Vinícius](https://github.com/artur-vinicius) e [João Ricardo](https://github.com/joao-rick)
 - [Material UI](https://github.com/balbii/2024-react-ui-libs), by [Jordson Galvão](https://github.com/JordsonZ) e [Renan Balbino](https://github.com/balbii)
